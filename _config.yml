@@ -1,11 +1,11 @@
 # Site settings
 title: choyoonjae-dev
 description: >-
-  공부한 것들 끄적끄적, 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
-lang: en-US
+  공부한 것들 끄적끄적,
+  일하면서 끄적끄적,
+  lang: en-US
 timezone: Asia/Seoul
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: assets/img/main.jpeg # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/piharpi/mahendrata.now.sh
 mode: dark # default theme "dark" | "light"
 

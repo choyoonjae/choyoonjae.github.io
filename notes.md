@@ -10,9 +10,8 @@ comments: false
 
 느낀점들 `끄적끄적`
 
-
 ```bash
-rails db:system:change --to=<adapter>
+tensorflow, machine learning
 # <adapter> : postgresql, mysql, sqlite3, oracle, sqlserver, dll...
 ```
 
@@ -24,7 +23,7 @@ rails db:system:change --to=<adapter>
 Untuk menggunakan perintah `db:system:change` pada rails 6 perlu menentukan database adapter dengan `--to` option.
 
 ```bash
-tensorflow, machine learning
+rails db:system:change --to=<adapter>
 # <adapter> : postgresql, mysql, sqlite3, oracle, sqlserver, dll...
 ```
 

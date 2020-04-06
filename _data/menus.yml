@@ -10,6 +10,12 @@
   url: /notes/
   external: false # set true if you using external link, see bellow
 
+- title: github
+  url: https://github.com/choyoonjae
+  external: true
+
+
+
 # Example:
 # - title: github
 #   url: https://github.com/piharpi/jekyll-klise
